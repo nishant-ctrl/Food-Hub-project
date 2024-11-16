@@ -32,7 +32,7 @@
         <button class="bg-red-600 text-white px-4 py-2 rounded-r-md hover:bg-red-700 transition-colors">Search</button>
       </div>
       <p class="flex justify-center">
-        <a href="item.php" class="text-white  bg-gray-700 rounded-xl py-2 px-2 ">Explore More</a>
+        <a href="foodlist.php" class="text-white  bg-gray-700 rounded-xl py-2 px-2 ">Explore More</a>
       </p>
     </div>
   </header>

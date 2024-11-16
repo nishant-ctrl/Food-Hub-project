@@ -68,7 +68,7 @@
                         <td colspan="2" class="p-2 font-semibold">Total</td>
                         <td class="p-2">700</td>
                         <td class="p-2"><a href="success.php"><button id="buy_button"
-                                    class="bg-green-500 text-white px-4 py-2 rounded">Buy Now</button></a></td>
+                                    class="bg-blue-500 text-white px-4 py-2 rounded">Buy Now</button></a></td>
                     </tr>
                 </tfoot>
             </table>
